@@ -350,16 +350,18 @@ margin: 15px 0;
   justify-content: center;
   align-items: flex-start;
   background-image: url("img/banner/b17.jpg");
-  min-width: 580px;
-  height: 50vh;
+  min-width: 30%;
+  height: 30vh;
   background-size: cover;
   background-position: center;
-  padding: 30px;
+  padding: 20px;
+  margin-bottom: 20px;
 }
 
 #sm-banner .banner-box2{
   background-image: url("img/banner/b10.jpg");
 }
+
 
 #sm-banner h4{
   color: #fff;
